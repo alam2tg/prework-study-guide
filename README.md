@@ -80,12 +80,11 @@ Step 7.3
 The steps to install a project involve using VS Code to write our code in HTML, CSS, and Javascript. HTML structures and writes the content of the website, CSS creates the style/design, and Javascript to create functions, debug, and inspect our website. We then used the CLI to organize our project by making different folders and connect to Github branches. Github allows us to break-down or project into multiple steps, and work on each steps without affecting our main code via the use of branches. We can write code on branches, then merge the information together later if there are no bugs. 
 
 ## Usage
-
-To Use this study guide, Use the titles to find a topic of interest, and review the workflow in the prompt below. If the answer provided was not sufficient, refer to the sources cited in the text.
+To Use this study guide, you can review the notes in each section based on the title. The title should act as a guide to workflows that you want to learn more about. 
 
 ## Credits
 
-github.com/mhogle25
+https://github.com/mhogle25
 
 ## License
 
