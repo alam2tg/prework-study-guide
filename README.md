@@ -80,15 +80,12 @@ Step 7.3
 The steps to install a project involve using VS Code to write our code in HTML, CSS, and Javascript. HTML structures and writes the content of the website, CSS creates the style/design, and Javascript to create functions, debug, and inspect our website. We then used the CLI to organize our project by making different folders and connect to Github branches. Github allows us to break-down or project into multiple steps, and work on each steps without affecting our main code via the use of branches. We can write code on branches, then merge the information together later if there are no bugs. 
 
 ## Usage
-To Use this study guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing 'Command + Option + I' on MacOS, or 'Ctrl + Shift + I' on Windows  
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+To Use this study guide, Use the titles to find a topic of interest, and review the workflow in the prompt below. If the answer provided was not sufficient, refer to the sources cited in the text.
 
 ## Credits
 
-Use the following links to assist with the project!
+github.com/mhogle25
 
 ## License
 
