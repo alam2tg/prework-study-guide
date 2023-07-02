@@ -1,4 +1,5 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
+https://alam2tg.github.io/prework-study-guide/
 
 ## Description
 I created this site to learn the basics of coding, and how coding can turn my ideas into reality (or digital reality). My motivation was to learn I could code with hands-on activity. 
